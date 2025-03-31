@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+    font-family: fantasy;
+}
+
+header{
+    text-align: center;
+    color: white;
+}
+
+img {
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+i {
+    color: grey;
+    text-align: center;
+    font-size: 13px;
+}
